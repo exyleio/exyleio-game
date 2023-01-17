@@ -2,4 +2,4 @@
 
 - submit issues [here](https://github.com/exyleio/exyleio/issues)
 
-## [Documentation](https://exyleio-docs.web.app/docs/projects/game)
+## [Documentation](https://exyleio-docs.web.app/docs/projects/game/overview)
