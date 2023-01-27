@@ -1,5 +1,1 @@
-# Exyle.io Client
-
-- submit issues [here](https://github.com/exyleio/exyleio/issues)
-
-## [Documentation](https://exyleio-docs.web.app/docs/projects/game/overview)
+Exyle.io has merged with [War Brokers](https://github.com/War-Brokers)
